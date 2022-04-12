@@ -1,0 +1,20 @@
+canvas {
+    border: 1px solid black;
+}
+
+img {
+    display: none;
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: separate;
+    padding: 4px 20px;
+    text-align: center;
+}
+
+#error {
+    font-family: Consolas, monospace, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
